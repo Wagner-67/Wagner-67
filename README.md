@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs for 2 years<br>📚 I'm currently learning Symfony and PHP<br>🎯 Goals: Master a few skills to not just stand there like a absolute dummy<br>🎲 Fun fact: I used to version-control my projects with folders and USB backups, completely ignoring Git</p>
+<p align="left">✨ Creating bugs for 2 years<br>📚 I'm currently learning Symfony and PHP<br>🎯 Goals: Master a few skills to not just stand there like an absolute dummy<br>🎲 Fun fact: I used to version-control my projects with folders and USB backups, completely ignoring Git</p>
 
 ###
 
