@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I code with or used to code with</h2>
+<h2 align="left">I work with or used to work with</h2>
 
 ###
 
