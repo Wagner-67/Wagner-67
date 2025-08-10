@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs for 2 years<br>📚 I'm currently learning Symfony and PHP<br>🎯 Goals: Master a few skills so I don’t look like a total dummy<br>🎲 Fun fact: I used to version-control my projects with folders and USB backups, completely ignoring Git existence</p>
+<p align="left">✨ Creating bugs for 2 years<br>📚  I'm currently learning Symfony and PHP<br>🎯 Goals: Master a few skills so I don’t look like a total dummy<br>🎲 Fun fact: Fun fact: I used to version-control my projects with folders and USB backups, completely ignoring Git existence</p>
 
 ###
 
@@ -15,9 +15,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" alt="symfony logo"  />
   <img width="12" />
@@ -26,8 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
 </div>
 
 ###
