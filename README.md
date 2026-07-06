@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs for 2 years<br>📚  I'm currently working with Symfony PHP<br>🎯 Goals: Please hire me<br>
+<p align="left"><br>Please just hire me<br>
 
 
 <h2 align="left">I work with or used to work with</h2>
